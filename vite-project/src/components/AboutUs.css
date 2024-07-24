@@ -1,0 +1,59 @@
+:root {
+    --color1: #202426;
+    --color2: #6C733D;
+    --color3: #9DA65D;
+    --color4: #8C8C88;
+    --color5: #F2F2F2;
+    --color6: #ddd;
+    --font: "Poppins";
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    border: 0;
+    font-family: var(--font);
+}
+
+#about-us-title {
+    text-transform: uppercase;
+    padding-bottom: 60px;
+}
+
+#about-us-info {
+    background-color: var(--color3);
+    margin-bottom: 40px;
+}
+
+#about-us-info #about-us-text-one {
+    text-align: justify;
+    color: var(--color1);
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-weight: 500;
+}
+
+.about-us-subtitle {
+    margin: 20px;
+    text-transform: uppercase;
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+#about-us-text-two,
+#about-us-text-three,
+#about-us-text-four,
+#about-us-text-five {
+    text-align: justify;
+    color: var(--color5);
+    padding-left: 15px;
+    padding-right: 15px;
+    font-weight: 500;
+}
+
+.list-about-us{
+    padding-left: 15px;
+    padding-right: 15px;
+}

@@ -1,0 +1,36 @@
+:root {
+    --color1: #202426;
+    --color2: #6C733D;
+    --color3: #9DA65D;
+    --color4: #8C8C88;
+    --color5: #F2F2F2;
+    --color6: #ddd;
+    --font: "Poppins";
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    border: 0;
+    font-family: var(--font);
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    background-color: var(--color6);
+}
+
+.app-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.content-wrap {
+    flex: 1;
+}

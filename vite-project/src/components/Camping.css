@@ -1,0 +1,122 @@
+:root {
+    --color1: #202426;
+    --color2: #6C733D;
+    --color3: #9DA65D;
+    --color4: #8C8C88;
+    --color5: #F2F2F2;
+    --color6: #ddd;
+    --font: "Poppins";
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    border: 0;
+    font-family: var(--font);
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 60px;
+}
+
+#camping-title {
+    margin-bottom: 60px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 35px;
+}
+
+#camping-info {
+    background-color: var(--color3);
+    margin-bottom: 20px;
+}
+
+#camping-info #text-one {
+    text-align: justify;
+    color: var(--color1);
+    padding: 15px;
+    font-weight: 500;
+}
+
+#camping-subtitle {
+    margin: 20px;
+    text-transform: uppercase;
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+#camping-list-info ul li,
+.list-title {
+    text-align: justify;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.list-information {
+    margin-bottom: 20px;
+}
+
+#camping-list-info,
+li {
+    color: var(--color5);
+}
+
+.list-title {
+    color: var(--color1);
+    font-weight: 700;
+    justify-content: flex-start;
+}
+
+#text-two {
+    text-align: justify;
+    color: var(--color1);
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    font-weight: 500;
+}
+
+h3 {
+    text-align: center;
+    text-transform: uppercase;
+    padding: 20px;
+}
+
+#container-video {
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+#container-video,
+.buttonAnimations .imgButton,
+ #videoScroll {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+#container-video{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+#container-video video {
+    width: 85%;
+    border: 10px solid transparent;
+}
+
+
+@media (max-width: 480px) {
+    #camping-list-info ul li{
+        font-size: 16px;
+    }
+    
+}
