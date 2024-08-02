@@ -12,3 +12,14 @@ Conexão com a Natureza: Promove a reconexão com a natureza, destacando a tranq
 Experiência de Usuário: Interface intuitiva e responsiva, garantindo uma navegação agradável em dispositivos móveis e desktop.
 
 https://natureloft.vercel.app/
+
+# ALGUMAS IMAGENS DO PROJETO
+
+![Exemplo de Interface1](src/assets/imgProject/img1.jpeg)
+![Exemplo de Interface2](vite-project/src/assets/imgProject/img2.jpeg)
+![Exemplo de Interface3](vite-project/src/assets/imgProject/img3.jpeg)
+![Exemplo de Interface4](vite-project/src/assets/imgProject/img4.jpeg)
+![Exemplo de Interface5](vite-project/src/assets/imgProject/img5.jpeg)
+![Exemplo de Interface6](vite-project/src/assets/imgProject/img6.jpeg)
+![Exemplo de Interface7](vite-project/src/assets/imgProject/img7.jpeg)
+![Exemplo de Interface8](vite-project/src/assets/imgProject/img8.jpeg)
