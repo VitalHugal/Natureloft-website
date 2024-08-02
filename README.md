@@ -12,3 +12,6 @@ Conexão com a Natureza: Promove a reconexão com a natureza, destacando a tranq
 Experiência de Usuário: Interface intuitiva e responsiva, garantindo uma navegação agradável em dispositivos móveis e desktop.
 
 https://natureloft.vercel.app/
+
+# ALGUMAS IMAGENS DO PROJETO
+
