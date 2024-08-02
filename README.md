@@ -16,6 +16,4 @@ https://natureloft.vercel.app/
 # ALGUMAS IMAGENS DO PROJETO
 
 ![Exemplo de Interface1](vite-project/src/assets/imgProject/img1.jpeg)
-![Exemplo de Interface6](vite-project/src/assets/imgProject/img6.jpeg)
-![Exemplo de Interface7](vite-project/src/assets/imgProject/img7.jpeg)
-![Exemplo de Interface8](vite-project/src/assets/imgProject/img8.jpeg)
+![Exemplo de Interface6](vite-project/src/assets/imgProject/img2.jpeg)
